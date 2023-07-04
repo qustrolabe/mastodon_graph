@@ -1,0 +1,5 @@
+"""config and credentials"""
+CLIENT_NAME = 'custom_client_name'
+API_BASE_URL = "https://example.your.mastodon_instance.com/"
+USERNAME = 'username'
+PASSWORD = 'password'

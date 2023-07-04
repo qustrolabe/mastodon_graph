@@ -1,0 +1,5 @@
+lib/*
+config.py
+graph.html
+__pycache__
+*.secret
